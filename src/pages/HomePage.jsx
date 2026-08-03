@@ -4,7 +4,7 @@ export function HomePage(){
     
     return(
     <>
-     <title>Homepage</title>
+        <title>Homepage</title>
         <div className="header">
         <div className="left-section">
             <a href="/" className="header-link">
